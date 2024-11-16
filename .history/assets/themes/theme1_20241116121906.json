@@ -1,0 +1,9 @@
+{
+    "button_color": [200, 200, 200],
+    "text_color": [0, 0, 0],
+    "background_color": [255, 255, 255],
+    "hover_color": [170, 170, 170],
+    "text_hover_color": [0, 0, 0],
+    "pressed_color": [150, 150, 150],
+    "text_pressed_color": [0, 0, 0]
+}

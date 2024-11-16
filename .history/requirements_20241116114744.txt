@@ -1,0 +1,6 @@
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.25.0
+pynput
+GestureRecognition>=1.0.0
+VirtualKeyboardAPI>=1.0.0
